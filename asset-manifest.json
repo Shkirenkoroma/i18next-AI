@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/i18next-AI/static/css/main.60024f24.css",
+    "main.js": "/i18next-AI/static/js/main.77e01d56.js",
+    "static/media/back.jpg": "/i18next-AI/static/media/back.cc427e4fbec89d81578b.jpg",
+    "index.html": "/i18next-AI/index.html",
+    "main.60024f24.css.map": "/i18next-AI/static/css/main.60024f24.css.map",
+    "main.77e01d56.js.map": "/i18next-AI/static/js/main.77e01d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60024f24.css",
+    "static/js/main.77e01d56.js"
+  ]
+}
